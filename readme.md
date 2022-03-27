@@ -1,3 +1,5 @@
+[![Test](https://github.com/vgo0/gotimepad/actions/workflows/test.yml/badge.svg)](https://github.com/vgo0/gotimepad/actions/workflows/test.yml)
+
 # GoTimePad
 This is a simple one time pad implementation on Golang.
 
